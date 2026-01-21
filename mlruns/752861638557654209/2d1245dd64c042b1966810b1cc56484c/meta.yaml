@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kashishpatel/Desktop/customer-churn-project/mlruns/752861638557654209/2d1245dd64c042b1966810b1cc56484c/artifacts
+end_time: 1768882335675
+entry_point_name: ''
+experiment_id: '752861638557654209'
+lifecycle_stage: active
+run_id: 2d1245dd64c042b1966810b1cc56484c
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768882332617
+status: 3
+tags: []
+user_id: kashishpatel

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/kashishpatel/Desktop/customer-churn-project/mlruns/752861638557654209/models/m-9dec95d2b8b14e3eb735ec25a8f92634/artifacts
+creation_timestamp: 1768882340117
+experiment_id: '752861638557654209'
+last_updated_timestamp: 1768882342974
+model_id: m-9dec95d2b8b14e3eb735ec25a8f92634
+model_type: null
+name: model
+source_run_id: b686ae3e101a4cb9a6ada783e4cb1edf
+status: 2
+status_message: null

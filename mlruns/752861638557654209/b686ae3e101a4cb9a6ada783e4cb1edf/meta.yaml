@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kashishpatel/Desktop/customer-churn-project/mlruns/752861638557654209/b686ae3e101a4cb9a6ada783e4cb1edf/artifacts
+end_time: 1768882342980
+entry_point_name: ''
+experiment_id: '752861638557654209'
+lifecycle_stage: active
+run_id: b686ae3e101a4cb9a6ada783e4cb1edf
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768882339932
+status: 3
+tags: []
+user_id: kashishpatel

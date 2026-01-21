@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kashishpatel/Desktop/customer-churn-project/mlruns/752861638557654209/8b74f1b73a5a421693283e575b483059/artifacts
+end_time: 1768882314810
+entry_point_name: ''
+experiment_id: '752861638557654209'
+lifecycle_stage: active
+run_id: 8b74f1b73a5a421693283e575b483059
+run_name: Logistic_Regression_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768882309724
+status: 3
+tags: []
+user_id: kashishpatel

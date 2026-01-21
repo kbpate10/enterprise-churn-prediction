@@ -1,0 +1,21 @@
+artifact_path: file:///Users/kashishpatel/Desktop/customer-churn-project/mlruns/752861638557654209/models/m-4b037c00a6024ba7bdf8b846b4e0141a/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMClassifier
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.12.7
+mlflow_version: 3.8.1
+model_id: m-4b037c00a6024ba7bdf8b846b4e0141a
+model_size_bytes: 327881
+model_uuid: m-4b037c00a6024ba7bdf8b846b4e0141a
+prompts: null
+run_id: bb8b1b1dec294b21aae65ee57ef4ae69
+utc_time_created: '2026-01-20 04:12:28.911305'

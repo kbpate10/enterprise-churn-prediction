@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kashishpatel/Desktop/customer-churn-project/mlruns/752861638557654209/bb8b1b1dec294b21aae65ee57ef4ae69/artifacts
+end_time: 1768882352594
+entry_point_name: ''
+experiment_id: '752861638557654209'
+lifecycle_stage: active
+run_id: bb8b1b1dec294b21aae65ee57ef4ae69
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768882348750
+status: 3
+tags: []
+user_id: kashishpatel
