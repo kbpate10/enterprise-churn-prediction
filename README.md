@@ -274,16 +274,6 @@ This project is licensed under the MIT License.
 - Streamlit: For amazing dashboard capabilities
 
 ---
-
-⭐ **If you found this project helpful, please give it a star!**
-```
-
----
-
-## **Now create requirements.txt**
-
-Create `/Users/kashishpatel/Desktop/customer-churn-project/requirements.txt`:
-```
 pandas==2.0.3
 numpy<2
 scikit-learn==1.3.0
