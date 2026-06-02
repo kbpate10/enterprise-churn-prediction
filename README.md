@@ -204,7 +204,7 @@ Open `http://localhost:5000` to view experiment tracking.
 - **Jupyter**: Notebooks for experimentation
 - **Git**: Version control
 
-## 📁 Project Structure
+## Project Structure
 ```
 customer-churn-project/
 │
@@ -232,15 +232,6 @@ customer-churn-project/
 └── README.md                        # This file
 ```
 
-## Key Differentiators
-
-This project stands out because:
-
-1. **Beyond Accuracy**: Focus on explainability and actionable insights, not just model performance
-2. **Business-Focused**: ROI calculator and business impact analysis included
-3. **Production-Ready**: Proper ML engineering practices (experiment tracking, model versioning, deployment)
-4. **Counterfactual Explanations**: Unique feature showing "what-if" scenarios to prevent churn
-5. **End-to-End Solution**: From raw data to deployed dashboard
 
 ## Future Enhancements
 
@@ -255,13 +246,6 @@ This project stands out because:
 ## License
 
 This project is licensed under the MIT License.
-
-## Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## Acknowledgments
 
