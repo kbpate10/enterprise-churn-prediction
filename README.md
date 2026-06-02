@@ -1,13 +1,9 @@
-# 🎯 Advanced Customer Churn Prediction System
+# Advanced Customer Churn Prediction System
 
 A production-ready machine learning system for predicting customer churn with explainable AI, real-time predictions, and interactive dashboards.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.25-red)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Project Architecture](#project-architecture)
@@ -18,18 +14,18 @@ A production-ready machine learning system for predicting customer churn with ex
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
 
-## 🎯 Overview
+## Overview
 
 This project implements an **advanced customer churn prediction system** that goes beyond traditional ML projects by incorporating:
-- ✅ Explainable AI with SHAP values
-- ✅ Counterfactual explanations for actionable insights
-- ✅ Real-time prediction capabilities
-- ✅ Interactive business intelligence dashboard
-- ✅ ROI-focused business impact analysis
+- Explainable AI with SHAP values
+- Counterfactual explanations for actionable insights
+- Real-time prediction capabilities
+- Interactive business intelligence dashboard
+- ROI-focused business impact analysis
 
 **Business Value:** The system identifies high-risk customers and provides specific, actionable recommendations to prevent churn, potentially saving millions in revenue.
 
-## ✨ Key Features
+## Key Features
 
 ### 1. **Advanced Feature Engineering**
 - RFM (Recency, Frequency, Monetary) metrics
@@ -51,10 +47,10 @@ This project implements an **advanced customer churn prediction system** that go
 
 ### 4. **Interactive Dashboard**
 Built with Streamlit, featuring:
-- 📊 Real-time risk segmentation (High/Medium/Low risk customers)
-- 🔍 Individual customer analysis with recommendations
-- 💡 Model performance metrics and visualizations
-- 📈 Business impact calculator with ROI projections
+- Real-time risk segmentation (High/Medium/Low risk customers)
+- Individual customer analysis with recommendations
+- Model performance metrics and visualizations
+- Business impact calculator with ROI projections
 
 ### 5. **Production-Ready Code**
 - Proper train/test splits with stratification
@@ -62,7 +58,7 @@ Built with Streamlit, featuring:
 - Comprehensive data preprocessing pipeline
 - Modular, well-documented code
 
-## 🏗️ Project Architecture
+## Project Architecture
 ```
 ┌─────────────────┐
 │  Raw Data       │
@@ -105,7 +101,7 @@ Built with Streamlit, featuring:
 └─────────────────────────────┘
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.12+
@@ -164,7 +160,7 @@ mlflow ui
 
 Open `http://localhost:5000` to view experiment tracking.
 
-## 📊 Model Performance
+## Model Performance
 
 | Model | Accuracy | Precision | Recall | F1 Score | ROC AUC |
 |-------|----------|-----------|--------|----------|---------|
@@ -236,7 +232,7 @@ customer-churn-project/
 └── README.md                        # This file
 ```
 
-## 🎯 Key Differentiators
+## Key Differentiators
 
 This project stands out because:
 
@@ -246,7 +242,7 @@ This project stands out because:
 4. **Counterfactual Explanations**: Unique feature showing "what-if" scenarios to prevent churn
 5. **End-to-End Solution**: From raw data to deployed dashboard
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Deploy to cloud (AWS/GCP/Azure)
 - [ ] Add A/B testing framework for interventions
@@ -256,18 +252,18 @@ This project stands out because:
 - [ ] Add automated retraining pipeline
 - [ ] Implement drift detection
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
-## 👤 Author
+## Author
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Email: your.email@example.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset: [IBM Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - SHAP Library: For explainability framework
